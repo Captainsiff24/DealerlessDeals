@@ -90,14 +90,14 @@ Ethereum Real Estate Contracts are Flexible as contracts may be written so that 
 
    The development platform- back-end interface includes: 
 
-**[InterPlanetary File System (IPFS)](https://pinata.cloud/)** 
-    is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
+**[InterPlanetary File System (IPFS)](https://pinata.cloud/)** 
+    is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
 IPFS  is talking to metamask, ganache, remix, and running solidity, python (Web3.py) , and github pages for the front-end interfacing.
 
 **[MetaMask](https://metamask.io/)**
-    is a browser plugin that allows users to make Ethereum transactions through regular websites. It facilitates the adoption of Ethereum because it bridges the gap between the user interfaces for Ethereum
+    is a browser plugin that allows users to make Ethereum transactions through regular websites. It facilitates the adoption of Ethereum because it bridges the gap between the user interfaces for Ethereum
     
-**[Web3.py](https://github.com/ethereum/web3.py)** 
+**[Web3.py](https://github.com/ethereum/web3.py)** 
     helps in access Ethereum node from Python.
     
     
@@ -142,7 +142,7 @@ Trains Models to to identify, categorize and value Housing Sales Price per sqft 
 ### DEMO 
 ---
 
-[BLOC HOME WEBSITE](https://maitree7.github.io/DealerLessdeals_RealEstate/)
+[BLOC HOME WEBSITE](https://maitree7.github.io/BlocHome_DeFi/)
 
 With Admin Rights (Property Listing)
 
