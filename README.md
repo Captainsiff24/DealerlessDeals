@@ -1,4 +1,4 @@
-![bloc_spot-2](./frontend/img/bloc_spot-2.gif)
+![bloc_spot-2](frontend/img/bloc_spot-2.gif)
 # BLOC HOME
 
 ### DEALERLESS DEALS - SMARTER, SECURE & FASTER
@@ -86,7 +86,7 @@ Ethereum Real Estate Contracts are Flexible as contracts may be written so that 
 
 #### Development Platforms
 
-![dev_platforms](./frontend/img/dev_platforms.png)
+![dev_platforms](frontend/img/dev_platforms.png)
 
    The development platform- back-end interface includes: 
 
@@ -117,27 +117,27 @@ Trains Models to to identify, categorize and value Housing Sales Price per sqft 
       
      * Sale Price by Price / Sqft by Cluster
      
-    <img src="./frontend/img/cluster.png" width="500"/><img src="./frontend/img/cluster_profile.png" width="500"/>
+    <img src="frontend/img/cluster.png" width="500"/><img src="./frontend/img/cluster_profile.png" width="500"/>
     
 * **Regression Model to Predict - Sales Price** 
     
     Sales Price
-    <img src="./frontend/img/reg_model_sp.png" width="500"/>
+    <img src="frontend/img/reg_model_sp.png" width="500"/>
     
     Sale Price per Sqft
-    <img src="./frontend/img/reg_model_sqft.png" width="500"/>
+    <img src="frontend/img/reg_model_sqft.png" width="500"/>
     
 * **Deep Learning Model - Predict Sales Price**
 
     Sales Price
-    <img src="./frontend/img/dl_sp.png" width="500"/>
+    <img src="frontend/img/dl_sp.png" width="500"/>
     
     Sale Price per Sqft
-    <img src="./frontend/img/dl_spft.png" width="500"/>
+    <img src="frontend/img/dl_spft.png" width="500"/>
 
 * **Model Comparison / Model Selection**
 
-![model_cmp](./frontend/img/model_cmp.png)
+![model_cmp](frontend/img/model_cmp.png)
 
 ### DEMO 
 ---
